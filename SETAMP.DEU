@@ -1,0 +1,10 @@
+Benutzerdokumentation         SETAMP                      Veit Kannegieser
+ננננננננננננננננננננננננננננננננננננננננננננננננננננננננננננננננננננננננננ
+
+Dieses Programm kann den Verst„rker der MiroSound PCM Pro 
+(Crystal CS4231,OPTI 82C929) ein- und ausschalten. 
+SETAMP.EXE ist sowohl als DOS als auch als OS/2-Programm lauff„hig.
+
+Benutzung: 
+  SETAMP 0
+  SETAMP 1
